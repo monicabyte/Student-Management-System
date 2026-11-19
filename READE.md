@@ -32,4 +32,4 @@ Tables:
 This project helps manage student details, marks, and attendance using Java and MySQL.
 
 ## Developed By
-Student Management System Project
+Monica S
